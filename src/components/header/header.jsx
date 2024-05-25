@@ -23,10 +23,7 @@ const Header = () => {
             <p className='font-bold text-2xl'>Doimo siz bilan</p>
             </div>
           </div>
-          <div className='w-full h-20 flex justify-center items-center'>
-            <button className='text-white text-center rounded-3xl w-72 h-10 bg-opacity-40 bg-black'>Biz bilan bog'lanish</button>
-          </div>
-          <div className='w-full flex justify-center '>
+          <div className='w-full flex justify-center pt-10'>
             <h1 className='w-[800px] text-center font-bold text-8xl text-green-950'>Welcome to <h1 className='font-bolt text-9xl'>I-MAX</h1> Company</h1>
           </div>
           <div className='w-full flex justify-center items-center h-10 absolute bottom-10'>
